@@ -1,0 +1,12 @@
+# Ignore everything
+*
+
+# But not these files...
+!.gitignore
+!main.cpp
+!SnakeLinkedList.h
+!SnakeLinkedList.cpp
+!Candy.h
+!Candy.cpp
+!Snake.h
+!Snake.cpp
